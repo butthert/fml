@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.itv"
+       name="ITV"
+       version="1.0.7"
+       provider-name="OG">
+  <requires>
+    <import addon="xbmc.python" version="1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary>Plugin for ITV Player</summary>
+    <description>ITV Player Front End</description>
+  </extension>
+</addon>
+
+<addon id="repository.betaitv" name="HELLO REPO" version="1.0" provider-name="HELLO BETA">
+	<extension point="xbmc.addon.repository" name="betaitv Addon Repository">
+		<info compressed="false">http://dl.dropbox.com/u/CHANGEME/My-Repo/addons.xml</info>
+		<checksum>http://dl.dropbox.com/u/CHANGEME/Your-Repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://dl.dropbox.com/u/CHANGEME/My-Repo/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install MY Addons</summary>
+		<description>Download and install addons from FAGGY.......For OFFICIAL !! Support Visit XBMCHUB.COM</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
