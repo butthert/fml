@@ -2,7 +2,7 @@
 <addon id="plugin.video.itv"
        name="ITV"
        version="1.0.7"
-       provider-name="dlake02">
+       provider-name="beta">
   <requires>
     <import addon="xbmc.python" version="1.0"/>
   </requires>
