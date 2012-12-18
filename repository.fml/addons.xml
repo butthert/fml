@@ -21,7 +21,7 @@
 <addon id="repository.betaitv" name="HELLO REPO" version="1.0" provider-name="HELLO BETA">
 	<extension point="xbmc.addon.repository" name="betaitv Addon Repository">
 		<info compressed="false">https://github.com/butthert/fml/blob/master/repository.fml/addons.xml</info>
-		<checksum>http://dl.dropbox.com/u/CHANGEME/Your-Repo/addons.xml.md5</checksum>
+		<checksum>https://github.com/butthert/fml/blob/master/repository.fml/addons.xml.md5</checksum>
 		<datadir zip="true">http://dl.dropbox.com/u/CHANGEME/My-Repo/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
