@@ -22,7 +22,7 @@
 	<extension point="xbmc.addon.repository" name="betaitv Addon Repository">
 		<info compressed="false">https://github.com/butthert/fml/blob/master/repository.fml/addons.xml</info>
 		<checksum>https://github.com/butthert/fml/blob/master/repository.fml/addons.xml.md5</checksum>
-		<datadir zip="true">http://dl.dropbox.com/u/CHANGEME/My-Repo/zips</datadir>
+		<datadir zip="true">https://github.com/butthert/fml/tree/master/repository.fml/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install MY Addons</summary>
